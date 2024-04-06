@@ -1,0 +1,4 @@
+youtube-transcript-api==0.6.2
+fastapi-poe==0.0.36
+firebase-admin==6.2.0
+pytube==15.0.0

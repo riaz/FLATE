@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Flate Extension",
+    "description": "FLATE Q/A Tool to help learn quickly and effectively",
+    "version": "1.0",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "default_icon.ico"
+    }
+  }
